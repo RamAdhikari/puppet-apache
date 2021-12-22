@@ -4,6 +4,9 @@
 #
 # @example
 #   include apache
-class apache {
+class apache(
+  string $instll_name,
+  string $install_ensure
+) {
   include apache::install
 }
