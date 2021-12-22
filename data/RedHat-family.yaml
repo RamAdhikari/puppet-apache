@@ -1,2 +1,2 @@
 ---
-apache::install_Name : 'httpd'
+apache::install_name : 'httpd'
