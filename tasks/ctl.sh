@@ -1,5 +1,5 @@
 #!/bin/sh
-
+apachectl $PT_command
 # Puppet Task Name: ctl
 #
 # This is where you put the shell code for your task.
